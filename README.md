@@ -20,7 +20,7 @@ You can deploy backend on heroku.:rocket:<br/>
 **[snoop-react repo](https://github.com/ankitgehlot123/snoop-react)**
 
 **Deploy snoop-react on firebase :rocket:**
-1. Install firebase-tools [link](https://firebase.google.com/docs/hosting)
+1. Install firebase-tools ([refer Doc.](https://firebase.google.com/docs/hosting))
 * login into firebase
 ```$ firebase login```
 * Initialise firebase in root directory<br/>
