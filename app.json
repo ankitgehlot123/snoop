@@ -1,0 +1,7 @@
+{
+    "name": "Snoop-backend",
+    "description": "Snoop-backend for signaling and chat",
+    "repository": "https://github.com/ankitgehlot123/snoop",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+  }
