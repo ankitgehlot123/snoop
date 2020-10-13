@@ -52,7 +52,7 @@ io.on('connection', socket => {
         }
         socket.to(roomID).broadcast.emit('user left',socket.id)
         socket.leave(roomID)
-        
+        socket.removeAllListeners();
     });
 
     socket.on('message', (payload) => {
